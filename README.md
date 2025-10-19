@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Khanza Hamida! ✨
+#  Helloooo everyone, I'm Khanza Hamida!
 
 ### *RPL Student 🎓 | Python Learner*
   
