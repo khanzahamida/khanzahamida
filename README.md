@@ -4,10 +4,6 @@
 
 ### *RPL Student 🎓 | Python Learner*
   
-[![GitHub Followers](https://img.shields.io/github/followers/khanzahamida?label=Follow%20Me&style=for-the-badge&color=88C0D0)](https://github.com/khanzahamida)
-[![Top Language](https://img.shields.io/github/languages/top/khanzahamida?style=for-the-badge&color=81A1C1)](https://github.com/khanzahamida)
-[![Visitor Count](https://profile-counter.glitch.me/khanzahamida/count.svg?style=for-the-badge&label=Views&color=5E81AC)](https://github.com/khanzahamida)
-  
 </div>
 
 ---
