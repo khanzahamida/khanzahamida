@@ -1,66 +1,72 @@
 <div align="center">
 
-# 🌷 hi there! i'm khanza hamida 🩵  
-*rpl student • beginner coder • dreamer with a pastel heart*
+# ✨ Welcome to Khanza's Dreamy Corner ✨
+## 🌸 *rpl student • beginner coder • dreamer with a pastel heart* 🌸
+
+<img src="https://i.ibb.co/k5JqB4j/Dreamy-Coder-Girl-removebg-preview.png" alt="A dreamy illustration of a girl coding with pastel elements" width="300"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F9A8D4&center=true&vCenter=true&width=400&lines=Hello+World!;Nice+to+meet+you!;Let's+build+something+beautiful!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 💌 about me
+### 💖 About Me: Where Logic Meets Aesthetic 🎨
 
-i’m a student who fell in love with coding — not because of numbers, but because of how beautiful things can look when logic meets design ✨  
-i started from **design**, but then i got curious about what happens *behind the screen*. now i’m exploring codes, bugs, and all the “why doesn’t this work??” moments 😭  
+Hi, I'm Khanza, a student enchanted by the magic of coding! My journey began not with complex algorithms, but with a deep appreciation for **design** ✨. I quickly realized that beautiful things don't just happen; they're crafted with logic *and* a touch of creativity.
 
-i’m still a beginner, but i love learning, experimenting, and making my screen a little more alive each day.  
-currently learning the basics with **c++**, **python**, and trying to sneak into **web dev** and **data analysis** world (still halfway there but we moveee 😤).
+Now, I'm diving headfirst into the fascinating world behind the screen, exploring codes, debugging endless errors (and occasionally screaming a little 😭). I'm a proud beginner, eager to learn and transform my screen into something more alive each day.
 
----
-
-### 🌸 fun facts about me 💭  
-
-- i started liking coding because of *designs* — i just love when programmers care about how things look ✨  
-- i get way too excited when the red error turns green... it feels like saving the whole world 😭  
-- but if it stays red for too long, i’ll probably rage a little before running to ai (or my boyfriend 🫣) for help  
-- i’m a beginner, but i love learning new things — from c++ to python, from web dev dreams to data analysis curiosity  
-- python is my comfort zone. simple, clean, and honestly… kinda cute 🐍  
-- sometimes i spend hours fixing one tiny bug, then celebrate like i just finished a huge project 😭  
-- i like things that look soft and calm — pastel blue is my world 🩵  
-- oh, and i get curious *about everything.* if something looks complicated, i *have* to know how it works.  
+| My Current Focus 📚 | My Dreams & Aspirations 🌟 |
+| :------------------ | :------------------------- |
+| Building solid basics with **C++** & **Python** | Venturing into **Web Development** 🌐 |
+| Understanding database with **MySQL** | Exploring the wonders of **Data Analysis** 📊 |
 
 ---
 
-### ☁️ tools & tech i use  
+### 🛠️ My Tech Playground & Tools ☁️
 
-🖥️ **vscode** • 🧠 **google colab** • 💬 **github**  
-💙 learning: `c++`, `python`, `html/css`, `mysql`  
+I love keeping my workspace clean and functional, but always with a splash of pastel! Here are some of the tools and languages I'm currently befriending:
 
----
+<div align="center">
 
-### 🌷 my little projects  
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,mysql,vscode,github&theme=light)](https://skillicons.dev)
 
-💻 [**Data Mahasiswa**](https://github.com/khanzahamida/Data-Mahasiswa.git) — my c++ project that made me scream a little (but i did it 😭)  
-🍰 [**OISHI HOUSE**](https://github.com/khanzahamida/OISHI-HOUSE.git) — a python project that tastes as sweet as its name 🩵  
+**Comfort Zone:** `Python` 🐍 • **Daily Driver:** `VSCode` 🖥️ • **Learning & Growing:** `C++`, `HTML/CSS`, `MySQL`
 
----
-
-### 🌼 currently  
-
-- learning how to build things that *look good* and *work well*  
-- exploring data analysis and web dev step by step  
-- writing small projects that make me go “OMG it actually runs 😭”  
+</div>
 
 ---
 
-### ✨ a little note
+### 🌟 Fun Facts & My Coding Quirks! ✨
 
-> still learning, still exploring, but always with a smile 💫  
-> one bug at a time, one dream at a time 🩵  
+Let's get a little personal! Here are some things that make my coding journey uniquely *mine*:
+
+* **Design First!** 🎨 My love for coding sparked from appreciating programmers who care about *how things look*. Aesthetics are key!
+* **The Green Light Feeling!** 🥳 There's nothing quite like the rush when that stubborn red error finally turns green. It feels like I've saved the whole world! 🦸‍♀️
+* **My Debugging Strategy!** 🤔 If a bug overstays its welcome, I might rage a *tiny* bit before running to **AI** (or my amazing boyfriend 🫣) for help. Teamwork makes the dream work!
+* **Pastel Power!** 🩵 If it's soft, calm, and pastel blue, it has my heart. My coding environment often reflects this!
+* **Curiosity Explorer!** 🔭 If something looks complicated, my brain immediately goes, "How does that *work*?!" I just have to know!
+
+---
+
+### 💻 My Little Projects: Where Code Meets Creativity 🌷
+
+Here are some of the creations I'm proud of – each taught me something new, often through a lot of trial and error (mostly error 😅)!
+
+* **[Data Mahasiswa](https://github.com/khanzahamida/Data-Mahasiswa.git)** (with `C++`)<br>
+    The C++ project that pushed me to my limits, but I conquered it! 💪 It’s a simple student data management system.
+
+* **[OISHI HOUSE](https://github.com/khanzahamida/OISHI-HOUSE.git)** (with `Python`)<br>
+    A sweet little Python project that's as delightful as its name. Think "delicious" and "code"! 🍰
 
 ---
 
 <div align="center">
 
-🌿 *thank you for visiting my little corner of the internet!* 🌿
+### 🌸 A Little Note from My Heart 🌿
+
+> **Still learning, still exploring, but always with a smile and a pastel heart.**
+> One bug at a time, one dream at a time. Thank you for dropping by my little corner of the internet! 💫
 
 </div>
