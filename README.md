@@ -1,103 +1,66 @@
 <div align="center">
-  
-#  Helloooo everyone, I'm Khanza Hamidaa
 
-### *RPL Student 🎓 | Python Learner*
-  
-</div>
-
----
-
-## 🚀 About Me
-
-I am a passionate **Software Engineering (RPL) Student**. I am focused on building a strong foundation in **C++** and **Python**, while exploring the exciting world of **Data Analysis** and **Cyber Security**. 💡
-
-I am currently pursuing my interest in various aspects of **Cyber Security** 🛡️ and **Data Analysis** 📈, as I believe these two fields are crucial for the future of technology.
-
----
-
-## 🛠️ Tech Stack & Skill Set
-
-Though still in the learning phase, I am familiar with and actively using the following tools and technologies:
-
-### 💻 Programming Languages (Top 3)
-- **Python** (Main focus, highly interested in Data & Security)
-- **C++** (For basic Algorithms and Data Structures)
-- **JavaScript** (Foundational knowledge for Web Development)
-
-### ⚙️ Frameworks & Tools
-
-| Category | Technology |
-| :--- | :--- |
-| **Frontend/UI** | HTML5, CSS3, Tailwind CSS |
-| **Backend/Server** | Flask (Python) |
-| **Database** | MySQL |
-| **Version Control** | Git, GitHub |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+# 🌷 hi there! i'm khanza hamida 🩵  
+*rpl student • beginner coder • dreamer with a pastel heart*
 
 </div>
 
 ---
 
-## ⭐ Featured Repositories (My Learning Journey)
+### 💌 about me
 
-These projects reflect my current learning process and focus areas.
+i’m a student who fell in love with coding — not because of numbers, but because of how beautiful things can look when logic meets design ✨  
+i started from **design**, but then i got curious about what happens *behind the screen*. now i’m exploring codes, bugs, and all the “why doesn’t this work??” moments 😭  
 
-1.  ### `my-personal-portfolio`
-    > **My Digital Portfolio, a place to introduce myself.**
-    > [View My Portfolio Repo!]([LINK-PORTFOLIO-ANDA])
-
-2.  ### `CPP-Basic-Projects`
-    > **A collection of basic C++ and Algorithm exercises.**
-    > [View C++ Repo Here!]([LINK-PROYEK-C++-SEDERHANA-ANDA])
-
-3.  ### `Python-Data-Starter`
-    > **Initial project introducing Python and MySQL integration.**
-    > [View Python Repo Here!]([LINK-PROYEK-PYTHON-SEDERHANA-ANDA])
+i’m still a beginner, but i love learning, experimenting, and making my screen a little more alive each day.  
+currently learning the basics with **c++**, **python**, and trying to sneak into **web dev** and **data analysis** world (still halfway there but we moveee 😤).
 
 ---
 
-## 📊 GitHub Statistics (Blue Aesthetic)
+### 🌸 fun facts about me 💭  
 
-My progress and contributions summary using the cool, light blue theme (`nord`):
+- i started liking coding because of *designs* — i just love when programmers care about how things look ✨  
+- i get way too excited when the red error turns green... it feels like saving the whole world 😭  
+- but if it stays red for too long, i’ll probably rage a little before running to ai (or my boyfriend 🫣) for help  
+- i’m a beginner, but i love learning new things — from c++ to python, from web dev dreams to data analysis curiosity  
+- python is my comfort zone. simple, clean, and honestly… kinda cute 🐍  
+- sometimes i spend hours fixing one tiny bug, then celebrate like i just finished a huge project 😭  
+- i like things that look soft and calm — pastel blue is my world 🩵  
+- oh, and i get curious *about everything.* if something looks complicated, i *have* to know how it works.  
+
+---
+
+### ☁️ tools & tech i use  
+
+🖥️ **vscode** • 🧠 **google colab** • 💬 **github**  
+💙 learning: `c++`, `python`, `html/css`, `mysql`  
+
+---
+
+### 🌷 my little projects  
+
+💻 [**Data Mahasiswa**](https://github.com/khanzahamida/Data-Mahasiswa.git) — my c++ project that made me scream a little (but i did it 😭)  
+🍰 [**OISHI HOUSE**](https://github.com/khanzahamida/OISHI-HOUSE.git) — a python project that tastes as sweet as its name 🩵  
+
+---
+
+### 🌼 currently  
+
+- learning how to build things that *look good* and *work well*  
+- exploring data analysis and web dev step by step  
+- writing small projects that make me go “OMG it actually runs 😭”  
+
+---
+
+### ✨ a little note
+
+> still learning, still exploring, but always with a smile 💫  
+> one bug at a time, one dream at a time 🩵  
+
+---
 
 <div align="center">
-  
-[![Khansa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanzahamida&show_icons=true&theme=nord&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanzahamida&layout=compact&langs_count=6&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+🌿 *thank you for visiting my little corner of the internet!* 🌿
 
----
-
-## 📧 Let's Connect!
-
-I am always open to new connections, discussions about **Cyber Security** or **Python**, and collaboration opportunities. Let's exchange ideas!
-
-<div align="center">
-
-<a href="[LINK-PROFIL-LINKEDIN-ANDA]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:[ALAMAT-EMAIL-PUBLIK-ANDA]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-<a href="[LINK-PORTFOLIO-ANDA]"><img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/></a>
-
-</div>
-
----
-
-<div align="center">
-  
-### **"Everyone certainly has feelings of envy and hatred, but do not retaliate with hatred; keep doing good to them."**
-  
-**Interested in my learning journey?** Feel free to hit the **Follow** button or give a **Star** to any projects you find cool! 😉
-  
----
-  
-<p align="right">Made with 💙 and curiosity.</p>
-  
 </div>
