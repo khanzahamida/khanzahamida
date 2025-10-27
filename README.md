@@ -55,7 +55,7 @@ Let's get a little personal! Here are some things that make my coding journey un
 
 * **Design First!** 🎨 My love for coding sparked from appreciating programmers who care about *how things look*. Aesthetics are key!
 * **The Green Light Feeling!** 🥳 There's nothing quite like the rush when that stubborn red error finally turns green. It feels like I've saved the whole world! 🦸‍♀️
-* **My Debugging Strategy! 🤔 If a bug overstays its welcome, I might get a little frustrated, then run to AI (or my real boyfriend who always backs me up 🫣) for help. Teamwork makes the dream work!
+* **My Debugging Strategy!** 🤔 If a bug overstays its welcome, I might get a little frustrated, then run to AI (or my real boyfriend who always backs me up 🫣) for help. Teamwork makes the dream work!
 * **Pastel Power!** 🩵 If it's soft, calm, and pastel blue, it has my heart. My coding environment often reflects this!
 * **Curiosity Explorer!** 🔭 If something looks complicated, my brain immediately goes, "How does that *work*?!" I just have to know!
 
