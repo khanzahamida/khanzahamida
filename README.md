@@ -34,12 +34,6 @@ Thank you for always being my reason to never give up and keep learning.
 ### 🎶 this song is for my love
 [![play on spotify](https://img.shields.io/badge/🎧_play_on_spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs)
 
-
-| My Current Focus 📚 | My Dreams & Aspirations 🌟 |
-| :------------------ | :------------------------- |
-| Building solid basics with **C++** & **Python** | Venturing into **Web Development** 🌐 |
-| Understanding database with **MySQL** | Exploring the wonders of **Data Analysis** 📊 |
-
 ---
 
 ### 🛠️ My Tech Playground & Tools ☁️
@@ -64,6 +58,11 @@ Let's get a little personal! Here are some things that make my coding journey un
 * **My Debugging Strategy! 🤔 If a bug overstays its welcome, I might get a little frustrated, then run to AI (or my real boyfriend who always backs me up 🫣) for help. Teamwork makes the dream work!
 * **Pastel Power!** 🩵 If it's soft, calm, and pastel blue, it has my heart. My coding environment often reflects this!
 * **Curiosity Explorer!** 🔭 If something looks complicated, my brain immediately goes, "How does that *work*?!" I just have to know!
+
+| My Current Focus 📚 | My Dreams & Aspirations 🌟 |
+| :------------------ | :------------------------- |
+| Building solid basics with **C++** & **Python** | Venturing into **Web Development** 🌐 |
+| Understanding database with **MySQL** | Exploring the wonders of **Data Analysis** 📊 |
 
 ---
 
