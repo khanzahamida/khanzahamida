@@ -23,7 +23,13 @@ i’m captivated by it — the sky at its most serene, the ocean at its most bre
 i fell in love with coding not through complex algorithms, but through my deep appreciation for design. i quickly realized that beautiful things don’t just happen; they’re crafted with logic and a touch of creativity.
 now, i’m diving headfirst into the world behind the screen, exploring codes, debugging endless errors. i’m a proud beginner, eager to learn, and excited to transform my screen into something more alive each day.
 
-### 🎶 This song is for my love
+### for someone special
+I have someone extraordinary. Not only is he kind and smart, but he is also always reliable. If I had to choose a superhero, I would choose him because he is a true savior.
+I'm still a student with limited abilities, but because of him, I'm learning to keep growing and striving to be better. I used to be easily discouraged, even now, but now there's always a reason to keep trying to be better than him. 
+If he can do it, if everyone else can do it, why can't I? 
+Thank you for always being my reason to never give up and keep learning.
+
+### 🎶 this song is for my love
 [![play on spotify](https://img.shields.io/badge/🎧_play_on_spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs)
 
 
