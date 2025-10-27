@@ -23,6 +23,10 @@ i’m captivated by it — the sky at its most serene, the ocean at its most bre
 i fell in love with coding not through complex algorithms, but through my deep appreciation for design. i quickly realized that beautiful things don’t just happen; they’re crafted with logic and a touch of creativity.
 now, i’m diving headfirst into the world behind the screen, exploring codes, debugging endless errors. i’m a proud beginner, eager to learn, and excited to transform my screen into something more alive each day.
 
+### 🎶 This song is for my love
+[![play on spotify](https://img.shields.io/badge/🎧_play_on_spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs)
+
+
 | My Current Focus 📚 | My Dreams & Aspirations 🌟 |
 | :------------------ | :------------------------- |
 | Building solid basics with **C++** & **Python** | Venturing into **Web Development** 🌐 |
