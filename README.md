@@ -25,7 +25,9 @@ now, i’m diving headfirst into the world behind the screen, exploring codes, d
 
 ### for someone special
 I have someone extraordinary. Not only is he kind and smart, but he is also always reliable. If I had to choose a superhero, I would choose him because he is a true savior.
-I'm still a student with limited abilities, but because of him, I'm learning to keep growing and striving to be better. I used to be easily discouraged, even now, but now there's always a reason to keep trying to be better than him. 
+
+I'm still a student with limited abilities, but because of him, I'm learning to keep growing and striving to be better. I used to be easily discouraged, even now, but now there's always a reason to keep trying to be better than him.
+
 If he can do it, if everyone else can do it, why can't I? 
 Thank you for always being my reason to never give up and keep learning.
 
